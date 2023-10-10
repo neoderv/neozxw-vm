@@ -40,7 +40,7 @@ class NeoZXWBlocks {
         };
     }
 
-    equalsStrong (argl, arg2) {
+    equalsStrong (arg1, arg2) {
         return arg1 === arg2;
     }
 
